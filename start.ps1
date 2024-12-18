@@ -1,0 +1,1 @@
+glslviewer blockcolour.frag -scene CORAL_index.png
